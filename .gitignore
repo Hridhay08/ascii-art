@@ -1,0 +1,5 @@
+# Ignore all screenshots
+Screenshot*
+
+# Ignore art*.txt
+art*.txt
